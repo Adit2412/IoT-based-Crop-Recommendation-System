@@ -49,7 +49,7 @@ def predict_crop(features):
     return prediction
 
 def main():
-    st.title('Crop Recommendation App')
+    st.title('Crop Recommendation System')
     st.subheader('Real-time Data from ThingSpeak')
 
     data = get_data()
