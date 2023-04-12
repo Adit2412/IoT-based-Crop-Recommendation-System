@@ -26,7 +26,7 @@ Here's the link of the user-inteface:https://adit2412-iot-based-crop-recommendat
 
 Here's the link of the project report:
 
-Requirements:- NodeMCU ESP8266 Sensors (DHT11, raindrop and moisture) Arduino IDE Thingspeak cloud server account Streamlit app Python environment Machine learning algorithm (e.g., Random Forest, Decision Tree)
+Requirements:- NodeMCU ESP8266 Sensors (DHT11, raindrop and moisture), Arduino IDE ,Thingspeak cloud server account ,Streamlit app ,Python environment ,Machine learning algorithm (e.g., Random Forest, Decision Tree)
 
 Installation:- Arduino IDE can be downloaded from the official website. Thingspeak cloud server account can be created on the Thingspeak website. Streamlit app can be installed using pip: pip install streamlit. The required Python libraries can be installed using pip: pip install pandas matplotlib seaborn scikit-learn.
 
