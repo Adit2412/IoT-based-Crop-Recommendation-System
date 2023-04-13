@@ -24,7 +24,8 @@ Here's the link of the user-inteface:https://adit2412-iot-based-crop-recommendat
 
 
 
-Here's the link of the project report:
+Here's the link of the project report: https://drive.google.com/file/d/1im9HmZkesOfYgfBBgRTtFJZ1d3mGw50b/view?usp=share_link
+
 
 Requirements:- NodeMCU ESP8266 Sensors (DHT11, raindrop and moisture), Arduino IDE ,Thingspeak cloud server account ,Streamlit app ,Python environment ,Machine learning algorithm (e.g., Random Forest, Decision Tree)
 
